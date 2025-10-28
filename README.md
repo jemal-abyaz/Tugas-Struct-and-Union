@@ -1,2 +1,2 @@
 # Tugas-Struct-and-Union
-Project ini berisi source code mengenai pengukuran jarak dua titik yang diambil dari buku "C++ PROGRAMMING:  FROM PROBLEM ANALYSIS TO PROGRAM DESIGN  SIXTH EDITION" karya D.S. MALIK Chapter 6 bagian Programming Exercise Nomor 8
+Project ini berisi source code program C++ untuk membaca data siswa, nilai ujian, memberikan grade, serta menampilkan siswa dengan nilai tertinggi. Program ini dikembangkan berdasarkan latihan soal dari buku “C++ Programming: From Problem Analysis to Program Design (Sixth Edition) karya D.S. Malik, Chapter 10 bagian Programming Exercise No. 2.
